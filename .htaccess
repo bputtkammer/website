@@ -1,0 +1,5 @@
+# DreamHost.com - www.brantputtkammer.com
+Options -Indexes
+
+ErrorDocument 404 /errorpages/404.html
+ErrorDocument 403 /errorpages/403.html
